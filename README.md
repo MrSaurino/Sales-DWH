@@ -20,4 +20,4 @@ The data flow is divided into the following logical stages:
   * `/HDExtrae`: Project files for the extraction of data from the source DB.
   * `/HDTransformation`: Project files with the transformations for data types, varchar delimitations and decimal rounding.
   * `/HDCarga`: Project files for loading the cleansed and transformed data into the DWH strcuture.
-* **`/olap/cuboOlapHDE`**: The C# solution containing the definition, deployment, and processing logic for the OLAP cube.
+* **`/olap`**: The C# solution containing the definition, deployment, and processing logic for the OLAP cube.
