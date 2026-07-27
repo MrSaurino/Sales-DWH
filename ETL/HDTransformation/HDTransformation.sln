@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "HDTransformation", "HDTransformation\HDTransformation.dtproj", "{91DF4490-1021-4461-A689-50AF280C9DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DF4490-1021-4461-A689-50AF280C9DDB}.Development|Default.ActiveCfg = Development
+		{91DF4490-1021-4461-A689-50AF280C9DDB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2765BE50-2EF9-4FE2-8A12-87C78AD6BB2D}
+	EndGlobalSection
+EndGlobal
